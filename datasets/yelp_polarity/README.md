@@ -168,7 +168,7 @@ The data fields are the same among all splits.
 
 ### Licensing Information
 
-[More Information Needed](https://github.com/huggingface/datasets/blob/master/CONTRIBUTING.md#how-to-contribute-to-the-dataset-cards)
+[BSD-3-Clause License](https://github.com/zhangxiangxiao/Crepe/blob/master/LICENSE)
 
 ### Citation Information
 
