@@ -88,7 +88,7 @@ An example from the YelpReviewFull test set looks as follows:
 ### Data Splits
 
 The Yelp reviews full star dataset is constructed by randomly taking 130,000 training samples and 10,000 testing samples for each review star from 1 to 5.
-In total there are 650,000 trainig samples and 50,000 testing samples.
+In total there are 650,000 training samples and 50,000 testing samples.
 
 ## Dataset Creation
 
